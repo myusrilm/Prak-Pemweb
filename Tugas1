@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Data Diri</title>
+</head>
+<body>
+    <center>
+    <div>
+        <img src="pasfoto.jpg" width="150" height="200"/>
+        <h2>BIODATA</h2>
+        <table>
+            <tr>
+                <td>Nama Lengkap</td>
+                <td>: Muhammad Yusril Marrizqi</td>
+            </tr>
+            <tr>
+                <td>Jenis Kelamin</td>
+                <td>: Laki - Laki</td>
+            </tr>
+            <tr>
+                <td>Tempat, Tanggal Lahir</td>
+                <td>: Palembang, 17 Maret 2003</td>
+            </tr>
+            <tr>
+                <td>Agama</td>
+                <td>: Islam</td>
+            </tr>
+            <tr>
+                <td>Alamat</td>
+                <td>: Jl. Yayasan 1 No.2000 RT14 RW06 Kel.Sei Buah Kec.Ilir Timur II Palembang</td>
+            </tr>
+            <tr>
+                <td>Kewarganegaraan</td>
+                <td>: Indonesia</td>
+            </tr>
+            <tr>
+                <td>Status</td>
+                <td>: Belum Menikah</td>
+            </tr>
+            <tr>
+                <td>E-Mail</td>
+                <td>: myusilmarrizqi@gmail.com</td>
+            </tr>
+            <tr>
+                <td>Nomor Telepon</td>
+                <td>: 085379733588</td>
+            </tr>
+        </table>
+    </div>
+    <br>
+    <div>
+        <h2>TENTANG</h2>
+        <p >
+            Saya adalah seorang mahasiswa Teknik Informatika semester 5,
+            di Institut Teknologi Sumatera.
+            <br>
+            Saya seorang yang dapat mempelajari hal-hal yang baru,
+            
+        </p>
+    </div>
+
+</body>
+</html>
