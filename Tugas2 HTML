@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<head>
+    <title>Muhammad Yusril Marrizqi</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+    <center>
+    <div class="container">
+        <header class="head">
+            <img class="gambar" width="150" height="200" alt="pasfoto"
+            src="poto/FOTO_YUSRIL.png"/>
+            <div class="side">
+                <h1></h1>Hi, I'm Yusril</h1>
+                <p class="side">
+                    Saya adalah seorang mahasiswa Teknik Informatika semester 5,
+                    di Institut Teknologi Sumatera.
+                </p>
+            </div>
+        </header>
+
+        <nav class="navbar">
+            <li>Kampus Saya</li>
+            <li>Prodi Saya</li>
+            <li>Youtube Saya</li>
+        </nav>
+
+        <section class="tentang">
+            <h2>About Me</h2>
+            <p>
+                Saya seorang yang dapat mempelajari hal-hal yang baru            </p>
+            <video controls
+            src="Lagu/y2mate.com - JKT48  Hissatsu Teleport Jurus Rahasia Teleport  Lirik_720p.mp4"></video>
+        </section>
+        <div class="pendidikan">
+            <h2>Pendidikan</h2>
+                <table border="1">
+            <tr>
+                    <th rowspan="2">No</th>
+                    <th rowspan="2">Jenjang</th>
+                    <th rowspan="2">Sekolah</th>
+            </tr>
+            <tr>
+                    <th>Mulai</th>
+                    <th>Selesai</th>
+                </tr>
+                <tr>
+                    <td>1.</td>
+                    <td>Mahasiswa</td>
+                    <td>ITERA</td>
+                    <td>2021</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td>2.</td>
+                    <td>SMA</td>
+                    <td>SMAN 5 Palembang</td>
+                    <td>2017</td>
+                    <td>2020</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+</body>
+</html>
